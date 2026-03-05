@@ -1,5 +1,8 @@
 venv/
+.env
 __pycache__/
 *.pyc
-.env
-.streamlit/secrets.toml
+n8n-workflows/
+Project Information/
+WF_*.json
+.cursor/
